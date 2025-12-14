@@ -1,0 +1,47 @@
+// short cut for vs code
+
+1. ctrl + shift + p --> for vs code command palette (for open extension) 
+                        you can create file from here
+
+2. ctrl + p --> for move to another file 
+                for an ex- if you want to go index.html in that case you can do ctrl + p 
+                and then file name and enter
+
+3. ctrl + ',' --> for settings file
+
+4. ctrl + '`' --> for open terminal
+
+5. ctrl + b --> for open and close side-bar
+
+6. ctrl + w --> for close file
+
+7. ctrl + s --> for save the file
+
+8. ctrl + '+' --> for zoom in 
+
+9. ctrl + '-' --> for zoom out
+
+10. ctrl + l --> for select the line 
+
+11. ctrl + '<' --> for move the cursor word by word (right to left)
+
+12. ctrl + '>' --> for move the cursor word by word (left to right)
+
+13. ctrl + shift + '<' --> for select text word by word (right to left)
+
+13. ctrl + shift + '>' --> for select text word by word (left to right)
+
+14. alt + shift + down arrow --> for duplicate line (to duplicate below) 
+
+15. alt + shift + up arrow --> for duplicate line (to duplicate above)
+
+16. alt + up arrow --> for swapping line 
+                       (if two lines int that case line 2 will be 1 and 1 will be 2)
+
+17. alt + down arrow --> for swapping line 
+                       (if two lines int that case line 1 will be 2 and 2 will be 1)  
+
+18. alt + click another line --> for two cursor
+                                 (here you can write same thing on two lines)  
+
+19. ctrl + d --> for find same word                                     
